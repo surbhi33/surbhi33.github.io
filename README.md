@@ -3,12 +3,12 @@
 
   <!-- Side navigation -->
   <div class="sidenav">
-    <h1>Hannah Lyon</h1>
+    <h1>Surbhi Prasad</h1>
     <br />
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#resume">Resume</a>
-    <a href="#contact">Contact</a>
+    <a href="#About">About</a>
+    <a href="#Projects">Projects</a>
+    <a href="#Resume">Resume</a>
+    <a href="#Contact">Contact</a>
     <br /><br /><br />
     <img
       src="img/profile-pic.png"
