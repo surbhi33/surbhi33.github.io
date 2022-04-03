@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 32 32"
+   style="enable-background:new 0 0 32 32;"
+   xml:space="preserve"
+   sodipodi:docname="cib-tableau.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview7"
+   showgrid="false"
+   inkscape:zoom="22.96875"
+   inkscape:cx="16"
+   inkscape:cy="16"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
+<title
+   id="title2">tableau</title>
+<path
+   d="M15.5,0.2v2.9h-2.6v0.8h2.6v2.9h0.9V3.9h2.6V3.2h-2.6V0.2L15.5,0.2z M23.6,3.3v4.3h-3.9v1.2h3.9v4.3H25l0-2.1l0-2.1l2,0  l1.9,0V7.6H25V3.3L23.6,3.3z M7,3.3v4.3h-4v1.2h4v4.3h1.3V8.8h4V7.6h-4V3.3L7,3.3z M15.2,10.4v4.8h-4.4v1.6h4.4v4.8h1.7v-4.8h4.4  v-1.6h-4.4v-4.8H15.2z M28.1,12.4v3h-2.7v1.1h2.7v3h1.2v-3H32v-1.1h-2.7v-3H28.1z M2.6,12.6v2.9H0v0.8h2.6v2.9h0.9v-2.9h2.7v-0.8  H3.5v-2.9H2.6z M23.6,18.6V23h-4v1.2h4v4.3H25v-4.3h4V23h-4v-4.3H23.6z M7,18.6V23H3v1.2H7v4.3h1.5v-4.3h3.9V23H8.4v-4.3H7.7L7,18.6  z M15.4,24.7v2.9h-2.6v1.1h2.6v3h1.2l0-1.5l0-1.5h2.6v-1.1h-2.7v-2.9H15.4z"
+   id="path4"
+   style="fill:#000080;fill-opacity:1" />
+</svg>
